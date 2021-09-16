@@ -16,6 +16,6 @@ Gloful Resort Web App React
 ### Documentation and collaboration
 |Category|Components|Confirmed|
 |--------|----------|---------|
-|Documentation|Confluence|Yes|
+|Documentation|[Confluence](https://eugene-jhon-m-ravina.atlassian.net/wiki/spaces/GLOFUL/overview "Confluence")|Yes|
 |Diagram|Mermaid, Diagrams, Gliffy |Yes|
 |Board|Jira|Yes|
