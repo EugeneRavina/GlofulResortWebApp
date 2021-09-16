@@ -12,3 +12,10 @@ Gloful Resort Web App React
 |UI Library|ReactJS|Yes|
 |UI Components Library|Material UI React|Yes|
 |Styling|Plain CSS CSS Module|Yes|
+
+### Documentation and collaboration
+|Category|Components|Confirmed|
+|--------|----------|---------|
+|Documentation|Confluence|Yes|
+|Diagram|Mermaid, Diagrams, Gliffy |Yes|
+|Board|Jira|Yes|
