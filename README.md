@@ -18,4 +18,4 @@ Gloful Resort Web App React
 |--------|----------|---------|
 |Documentation|[Confluence](https://eugene-jhon-m-ravina.atlassian.net/wiki/spaces/GLOFUL/overview "Confluence")|Yes|
 |Diagram|Mermaid, Diagrams, Gliffy |Yes|
-|Board|Jira|Yes|
+|Board|[Jira](https://eugene-jhon-m-ravina675.atlassian.net/jira/software/projects/GLOF/boards/1/backlog "Jira")|Yes|
